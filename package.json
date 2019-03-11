@@ -1,4 +1,7 @@
 {
+  "name": "personal site",
+  "description": "personal website v2",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "next",
